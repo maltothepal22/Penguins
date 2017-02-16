@@ -1,0 +1,22 @@
+<!DOCTYPEHTML>
+<HTML>
+  <Body>
+      <title> <h1>Penguins </h1> </title>
+<p>
+      Penguins are aquatic, flightless birds that are highly adapted to life in the water. 
+      Their distinct tuxedo-like appearance is called countershading, a form of camouflage that helps keep them safe in the water. 
+      Penguins do have wing-bones, though they are flipper-like and extremely suited to swimming. 
+      Penguins are found almost exclusively in the southern hemisphere, where they catch their food underwater and raise their young on land.
+</p>
+<p> 
+    <title>Just A Few </title><ul> <h2>Adelie</h2> 
+              <a><img alt="http://www.penguinworld.com/types/index_files/stacks-image-bf44879.jpg"</a>
+         <h2>African</h2>  
+              <a><img alt= "http://www.penguinworld.com/types/index_files/stacks-image-1b37a65.jpg"</a>
+         <h2>Chinstrap</h2>
+              <a><img alt="http://www.penguinworld.com/types/index_files/stacks-image-7b6a19b.jpg"</a>
+         <h2>Macaroni</h2>
+               <a><img alt="http://www.penguinworld.com/types/index_files/stacks-image-0417c38.jpgni</h2>         
+</p>              
+</Body>
+</Html>
